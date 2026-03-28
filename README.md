@@ -1,13 +1,15 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:003b00,100:00ff41&amp;height=160&amp;section=header&amp;text=Gaurav%20Gupta&amp;fontSize=42&amp;fontColor=00ff41&amp;fontAlignY=45&amp;desc=Full-Stack%20%26%20AI%20Engineer&amp;descSize=16&amp;descAlignY=68&amp;descColor=00cc33&amp;animation=fadeIn" width="100%" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003b00,100:00ff41&height=160&section=header&text=Gaurav%20Gupta&fontSize=42&fontColor=00ff41&animation=fadeIn"/>
+</p>
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=14&amp;pause=1000&amp;color=00FF41&amp;center=true&amp;vCenter=true&amp;width=580&amp;lines=~%2Fportfolio+%24+whoami;Full-Stack+%26+AI+Engineer;AI+Orchestration+Specialist+%7C+Scalable+Systems+Architect;Building+AI-powered+digital+ecosystems;%24+git+commit+-m+%22feat%3A+awesome+project%22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00FF41&center=true&vCenter=true&width=580&lines=~%2Fportfolio+%24+whoami;Full-Stack+%26+AI+Engineer;AI+Orchestration+Specialist+%7C+Scalable+Systems+Architect;Building+AI-powered+digital+ecosystems;%24+git+commit+-m+%22feat%3A+awesome+project%22" />
   <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=Gaurav200247&amp;style=flat-square&amp;color=00ff41&amp;labelColor=0d1117" />
+  <img src="https://komarev.com/ghpvc/?username=Gaurav200247&style=flat-square&color=00ff41&labelColor=0d1117" />
   &nbsp;
-  <a href="https://gaurav-gupta-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00ff41?style=flat-square&amp;logo=vercel&amp;logoColor=black" /></a>
+  <a href="https://gaurav-gupta-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00ff41?style=flat-square&logo=vercel&logoColor=black" /></a>
   &nbsp;
-  <a href="https://github.com/Gaurav200247"><img src="https://img.shields.io/badge/GitHub-Gaurav200247-00ff41?style=flat-square&amp;logo=github&amp;logoColor=black" /></a>
+  <a href="https://github.com/Gaurav200247"><img src="https://img.shields.io/badge/GitHub-Gaurav200247-00ff41?style=flat-square&logo=github&logoColor=black" /></a>
 </div>
 
 ---
@@ -24,7 +26,7 @@ const developer = {
 };
 
 // Ready to ship 🚀
-```
+````
 
 ```yaml
 capabilities:
@@ -75,7 +77,7 @@ currently_learning:
 </td>
 </tr>
 <tr>
-<td align="center"><b>AI &amp; Data</b></td>
+<td align="center"><b>AI & Data</b></td>
 <td>
   <img src="https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=chainlink&logoColor=00ff41" />
   <img src="https://img.shields.io/badge/LangGraph-0d1117?style=flat-square&logo=graphql&logoColor=00ff41" />
@@ -85,7 +87,7 @@ currently_learning:
 </td>
 </tr>
 <tr>
-<td align="center"><b>Cloud &amp; Tools</b></td>
+<td align="center"><b>Cloud & Tools</b></td>
 <td>
   <img src="https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonwebservices&logoColor=00ff41" />
   <img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=00ff41" />
@@ -102,11 +104,12 @@ currently_learning:
 ## $ cat github-stats.json
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Gaurav200247&amp;show_icons=true&amp;theme=transparent&amp;title_color=00ff41&amp;text_color=00cc33&amp;icon_color=00ff41&amp;border_color=003b00&amp;bg_color=0d1117&amp;count_private=true&amp;hide_border=false" />
-  &nbsp;
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav200247&amp;layout=compact&amp;theme=transparent&amp;title_color=00ff41&amp;text_color=00cc33&amp;border_color=003b00&amp;bg_color=0d1117&amp;langs_count=6" />
+<p align="center">
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gaurav200247&show_icons=true&theme=dark&title_color=00ff41&text_color=00cc33&icon_color=00ff41&border_color=003b00&bg_color=0d1117&count_private=true" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gaurav200247&layout=compact&theme=dark&title_color=00ff41&text_color=00cc33&border_color=003b00&bg_color=0d1117&langs_count=6" />
+</p>
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav200247&amp;theme=transparent&amp;ring=00ff41&amp;fire=00cc33&amp;currStreakLabel=00ff41&amp;sideLabels=00cc33&amp;sideNums=00ff41&amp;dates=336633&amp;border=003b00&amp;background=0d1117&amp;stroke=003b00&amp;currStreakNum=00ff41" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav200247&theme=transparent&ring=00ff41&fire=00cc33&currStreakLabel=00ff41&sideLabels=00cc33&sideNums=00ff41&dates=336633&border=003b00&background=0d1117&stroke=003b00" />
 </div>
 
 ---
@@ -114,19 +117,7 @@ currently_learning:
 ## $ git log --graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gaurav200247&amp;bg_color=0d1117&amp;color=00ff41&amp;line=00cc33&amp;point=00ff41&amp;area_color=003b00&amp;area=true&amp;hide_border=false&amp;title_color=00ff41&amp;border_color=003b00" width="95%" />
-</div>
-
----
-
-## $ snake ./contributions
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gaurav200247/Gaurav200247/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gaurav200247/Gaurav200247/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Gaurav200247/Gaurav200247/output/github-snake-dark.svg" width="100%" />
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gaurav200247&bg_color=0d1117&color=00ff41&line=00cc33&point=00ff41&area_color=003b00&area=true&title_color=00ff41&border_color=003b00" width="95%" />
 </div>
 
 ---
@@ -134,17 +125,17 @@ currently_learning:
 ## $ ./collaboration.sh
 
 <div align="center">
-  <a href="https://gaurav-gupta-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-gaurav--gupta--portfolio.vercel.app-00ff41?style=flat-square&amp;logo=vercel&amp;logoColor=black&amp;labelColor=0d1117" /></a>
+  <a href="https://gaurav-gupta-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-gaurav--gupta--portfolio.vercel.app-00ff41?style=flat-square&logo=vercel&logoColor=black&labelColor=0d1117" /></a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-Gaurav_Gupta-00ff41?style=flat-square&amp;logo=linkedin&amp;logoColor=black&amp;labelColor=0d1117" /></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-Gaurav_Gupta-00ff41?style=flat-square&logo=linkedin&logoColor=black&labelColor=0d1117" /></a>
   &nbsp;
-  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-your.email@gmail.com-00ff41?style=flat-square&amp;logo=gmail&amp;logoColor=black&amp;labelColor=0d1117" /></a>
+  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-your.email@gmail.com-00ff41?style=flat-square&logo=gmail&logoColor=black&labelColor=0d1117" /></a>
   <br/><br/>
-  <img src="https://img.shields.io/badge/Available_for_new_projects-Remote--friendly_worldwide-00ff41?style=flat-square&amp;labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Available_for_new_projects-Remote--friendly_worldwide-00ff41?style=flat-square&labelColor=0d1117" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00ff41,50:003b00,100:0d1117&amp;height=100&amp;section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:003b00,100:0d1117&height=100&section=footer" width="100%" />
 </div>
