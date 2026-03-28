@@ -1,14 +1,8 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003b00,100:00ff41&height=160&section=header&text=Gaurav%20Gupta&fontSize=42&fontColor=00ff41&fontAlignY=45&desc=Full-Stack%20%26%20AI%20Engineer&descSize=16&descAlignY=68&descColor=00cc33&animation=fadeIn" width="100%" />
-</div>
-
-<div align="center">
+  <br/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00FF41&center=true&vCenter=true&width=580&lines=~%2Fportfolio+%24+whoami;Full-Stack+%26+AI+Engineer;AI+Orchestration+Specialist+%7C+Scalable+Systems+Architect;Building+AI-powered+digital+ecosystems;%24+git+commit+-m+%22feat%3A+awesome+project%22" alt="Typing SVG" />
-</div>
-
-<br/>
-
-<div align="center">
+  <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=Gaurav200247&style=flat-square&color=00ff41&labelColor=0d1117" />
   &nbsp;
   <a href="https://gaurav-gupta-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00ff41?style=flat-square&logo=vercel&logoColor=black" /></a>
@@ -115,11 +109,7 @@ currently_learning:
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Gaurav200247&show_icons=true&theme=transparent&title_color=00ff41&text_color=00cc33&icon_color=00ff41&border_color=003b00&bg_color=0d1117&count_private=true&hide_border=false" />
   &nbsp;
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav200247&layout=compact&theme=transparent&title_color=00ff41&text_color=00cc33&border_color=003b00&bg_color=0d1117&langs_count=6" />
-</div>
-
-<br/>
-
-<div align="center">
+  <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav200247&theme=transparent&ring=00ff41&fire=00cc33&currStreakLabel=00ff41&sideLabels=00cc33&sideNums=00ff41&dates=336633&border=003b00&background=0d1117&stroke=003b00&currStreakNum=00ff41" />
 </div>
 
@@ -153,11 +143,7 @@ currently_learning:
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-Gaurav_Gupta-00ff41?style=flat-square&logo=linkedin&logoColor=black&labelColor=0d1117" /></a>
   &nbsp;
   <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-your.email@gmail.com-00ff41?style=flat-square&logo=gmail&logoColor=black&labelColor=0d1117" /></a>
-</div>
-
-<br/>
-
-<div align="center">
+  <br/><br/>
   <img src="https://img.shields.io/badge/Available_for_new_projects-Remote--friendly_worldwide-00ff41?style=flat-square&labelColor=0d1117" />
 </div>
 
