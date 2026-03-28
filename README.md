@@ -88,14 +88,6 @@ currently_learning:
 ## GitHub Stats
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Gaurav200247&show_icons=true&theme=transparent&title_color=00d4ff&text_color=c9d1d9&icon_color=00d4ff&border_color=30363d&bg_color=0d1117&count_private=true&hide_border=false" />
-  &nbsp;
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav200247&layout=compact&theme=transparent&title_color=00d4ff&text_color=c9d1d9&border_color=30363d&bg_color=0d1117&langs_count=6" />
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav200247&theme=transparent&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=888888&sideNums=c9d1d9&dates=555555&border=30363d&background=0d1117&stroke=30363d&currStreakNum=00d4ff" />
 </div>
 
