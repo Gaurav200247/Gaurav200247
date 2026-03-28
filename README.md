@@ -154,9 +154,9 @@
 <div align="center">
   <a href="https://gaurav-gupta-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-gaurav--gupta--portfolio.vercel.app-00ff41?style=flat-square&logo=vercel&logoColor=black&labelColor=0d1117" /></a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-Gaurav_Gupta-00ff41?style=flat-square&logo=linkedin&logoColor=black&labelColor=0d1117" /></a>
+  <a href="https://www.linkedin.com/in/gauravbuilds/"><img src="https://img.shields.io/badge/LinkedIn-Gaurav_Gupta-00ff41?style=flat-square&logo=linkedin&logoColor=black&labelColor=0d1117" /></a>
   &nbsp;
-  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-your.email@gmail.com-00ff41?style=flat-square&logo=gmail&logoColor=black&labelColor=0d1117" /></a>
+  <a href="mailto:gauravgupta742002@gmail.com"><img src="https://img.shields.io/badge/gauravgupta742002@gmail.com-00ff41?style=flat-square&logo=gmail&logoColor=black&labelColor=0d1117" /></a>
   <br/><br/>
   <img src="https://img.shields.io/badge/Available_for_new_projects-Remote--friendly_worldwide-00ff41?style=flat-square&labelColor=0d1117" />
 </div>
