@@ -53,7 +53,6 @@ hobbies:
   - Learning New Tech
 ```
 
-```
 
 <br clear="right"/>
 
@@ -141,8 +140,6 @@ hobbies:
   </picture>
 </div>
 
-> ⚠️ **Note:** To enable the snake animation, add a GitHub Action. See the setup section below.
-
 ---
 
 <!-- Featured Projects -->
@@ -212,4 +209,3 @@ _I debug code faster with coffee ☕ and lo-fi beats 🎵_
   <br/><br/>
   <img src="https://img.shields.io/badge/Made_with_❤️_by-Gaurav_Gupta-00d4ff?style=flat-square&labelColor=0d1117" />
 </div>
-```
