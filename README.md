@@ -16,31 +16,58 @@
 
 ## $ whoami
 
-```typescript
-const developer = {
-  name     : "Gaurav Gupta",
-  location : "India 🇮🇳",
-  role     : "Full-Stack & AI Engineer",
-  passion  : "building",
-  coffee   : true,
-};
+<div align="center">
+<table width="80%" style="border-collapse: collapse;">
 
-// Ready to ship 🚀
-````
+<tr>
+<td align="left" width="30%"><b>Profile</b></td>
+<td align="left">
+  <b>Gaurav Gupta</b><br/>
+  Full-Stack & AI Engineer<br/>
+  India
+</td>
+</tr>
 
-```yaml
-capabilities:
-  frontend  : [ Next.js, React.js, TypeScript ]
-  backend   : [ NestJS, Node.js, FastAPI ]
-  mobile    : [ React Native, Flutter ]
-  ai_systems: [ LangGraph, RAG, Multi-Agent ]
-  cloud     : [ AWS, Docker, Redis ]
+<tr>
+<td align="left"><b>Focus</b></td>
+<td align="left">
+  Building scalable systems<br/>
+  Designing AI-powered applications<br/>
+  Writing clean and efficient code
+</td>
+</tr>
 
-currently_learning:
-  - Advanced AI Orchestration
-  - Scalable Systems Architecture
-  - Cloud-Native Deployment
-```
+<tr>
+<td align="left"><b>Core Stack</b></td>
+<td>
+  <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/NestJS-0d1117?style=flat-square&logo=nestjs&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=00ff41" />
+</td>
+</tr>
+
+<tr>
+<td align="left"><b>AI & Data</b></td>
+<td>
+  <img src="https://img.shields.io/badge/LangGraph-0d1117?style=flat-square&logo=graphql&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/RAG-0d1117?style=flat-square&logo=openai&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/Multi--Agent-0d1117?style=flat-square&logo=apachekafka&logoColor=00ff41" />
+</td>
+</tr>
+
+<tr>
+<td align="left"><b>Currently Learning</b></td>
+<td align="left">
+  Advanced AI Orchestration<br/>
+  Scalable Systems Architecture<br/>
+  Cloud-Native Deployment
+</td>
+</tr>
+
+</table>
+</div>
 
 ---
 
