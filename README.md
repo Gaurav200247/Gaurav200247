@@ -21,10 +21,10 @@
 ## About
 
 ```yaml
-name      : Gaurav Gupta
-location  : India 🇮🇳
-focus     : Full Stack Web Development
-education : Computer Science & Engineering
+name: Gaurav Gupta
+location: India 🇮🇳
+focus: Full Stack Web Development
+education: Computer Science & Engineering
 
 currently_learning:
   - Advanced React & Next.js
@@ -105,18 +105,6 @@ currently_learning:
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gaurav200247&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area_color=00d4ff&area=true&hide_border=false&title_color=00d4ff&border_color=30363d" width="95%" />
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gaurav200247/Gaurav200247/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gaurav200247/Gaurav200247/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Gaurav200247/Gaurav200247/output/github-snake-dark.svg" width="100%" />
-  </picture>
 </div>
 
 ---
